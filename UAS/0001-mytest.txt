@@ -1,5 +1,5 @@
 Script started on Thu 04 Jun 2020 08:43:04 PM WIB
-ari.angga@badak:~$ PS1="$ "
+$ PS1="$ "
 $ echo $GitHubUser
 nugraha878
 $ echo $PSTAMP
