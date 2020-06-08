@@ -7,4 +7,4 @@ OS 201
 #### Github Page ini ditujukan untuk keperluan UAS OS
 #### Jolan Tru!
 
-* [URLs](URLs/)
+#### Link yang berhubungan dengan OS : [URLs](URLs/)
