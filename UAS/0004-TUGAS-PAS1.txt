@@ -1,0 +1,37 @@
+Script started on Mon 08 Jun 2020 10:24:05 PM WIB
+$ PS1="$ "
+$ echo $GitHubUser
+nugrahaa878
+$ echo $PSTAMP
+TMP1="$(date +%y%m%d-%H%M%S)"; TMP2="$(echo $TMP1-$GitHubUser-${PWD##*/}|sha1sum|cut -c1-4)"; echo "$TMP1-$TMP2-${PWD##*/}/> ";
+$ eval $PSTAMP
+200608-222420-2044-uas/>
+$ PS1="\$(eval \$PSTAMP)"
+200608-222425-5dd2-uas/> echo -e $CEKSAYA
+nugrahaa878 ZCZCSCRIPTSTART 200604-204304 nugrahaa878
+ nugrahaa878 nugrahaa878 200604-204331-edfb-ari.angga/ 200604-204331 SEQOK SUMNO 0be04a86
+ nugrahaa878 nugrahaa878 200604-204337-5f87-ari.angga/ 200604-204337 SEQOK SUMNO 98836b9d
+ nugrahaa878 nugrahaa878 200604-204345-822d-ari.angga/ 200604-204345 SEQOK SUMNO 329393f5
+ nugrahaa878 nugrahaa878 200604-204350-c1fa-ari.angga/ 200604-204350 SEQOK SUMNO fba1dea7
+ nugrahaa878 ZCZCSCRIPTSTOP 200604-204405 SEQOK
+
+200608-222428-68ec-uas/> echo -e $CEKSEBELA1
+nugrahaa878 ZCZCSCRIPTSTART 200602-225743 NununHidayah
+ nugrahaa878 NununHidayah 200602-225834-1aa3-nunun.hidayah/ 200602-225834 SEQOK SUMOK 1aa36351
+ nugrahaa878 NununHidayah 200602-225901-fefb-nunun.hidayah/ 200602-225901 SEQOK SUMOK fefb698c
+ nugrahaa878 NununHidayah 200602-225909-4bef-nunun.hidayah/ 200602-225909 SEQOK SUMOK 4befbe5d
+ nugrahaa878 NununHidayah 200602-225927-c97d-nunun.hidayah/ 200602-225927 SEQOK SUMOK c97d06e7
+ nugrahaa878 ZCZCSCRIPTSTOP 200602-225947 SEQOK
+
+200608-222432-905b-uas/> echo -e $CEKSEBELA2
+nugrahaa878 ZCZCSCRIPTSTART 200607-115219 nurulputri
+ nugrahaa878 nurulputri 200607-115247-6255-nurul.srianda/ 200607-115247 SEQOK SUMOK 625526a4
+ nugrahaa878 nurulputri 200607-115255-cd46-nurul.srianda/ 200607-115255 SEQOK SUMOK cd46c16b
+ nugrahaa878 nurulputri 200607-115334-c8df-nurul.srianda/ 200607-115334 SEQOK SUMOK c8dfc216
+ nugrahaa878 nurulputri 200607-115353-8bb4-nurul.srianda/ 200607-115353 SEQOK SUMOK 8bb43e9a
+ nugrahaa878 ZCZCSCRIPTSTOP 200607-115406 SEQOK
+
+200608-222435-3fb6-uas/> exit
+exit
+
+Script done on Mon 08 Jun 2020 10:24:38 PM WIB
